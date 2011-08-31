@@ -25,3 +25,6 @@ More to come...
 
 ## input_output
 Two simple circuits for input and output.
+
+## doc
+Some documentation for the µC80C535
