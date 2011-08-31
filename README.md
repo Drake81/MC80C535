@@ -4,8 +4,8 @@ The [µC80C535](https://github.com/Drake81/MC80C535/blob/master/doc/MC80C535.pdf
 It was published by a german electronic magazin, named [Elektor](http://www.elektor.de/).
 
 ## Pictures
-* [µCMC80C535 board from above](https://github.com/Drake81/MC80C535/blob/master/doc/Pictures/Compuboard-oben.jpg)
-* [µCMC80C535 board from below](https://github.com/Drake81/MC80C535/blob/master/doc/Pictures/Compuboard-unten.jpg)
+* [µC80C535 board from above](https://github.com/Drake81/MC80C535/blob/master/doc/Pictures/Compuboard-oben.jpg)
+* [µC80C535 board from below](https://github.com/Drake81/MC80C535/blob/master/doc/Pictures/Compuboard-unten.jpg)
 
 ## DCF_Receiver
 This is a part of my old school project. It was an digital station clock with a LED display.
