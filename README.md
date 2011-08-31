@@ -4,7 +4,7 @@ The [µC80C535](https://github.com/Drake81/MC80C535/blob/master/doc/MC80C535.pdf
 It was published by a german electronic magazin, named [Elektor](http://www.elektor.de/).
 It use the 80C535 from Siemens/Infinion as microcontroller as central CPU.
 
-The only contra, there is no flash memory so every program is stored in RAM.
+The only disadvantage, there is no flash memory inside. So every program is stored in RAM.
 
 ## Pictures
 * [µC80C535 board from above](https://github.com/Drake81/MC80C535/blob/master/doc/Pictures/Compuboard-oben.jpg)
