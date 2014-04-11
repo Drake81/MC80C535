@@ -3,7 +3,7 @@
 The [µC80C535](https://github.com/Drake81/MC80C535/blob/master/doc/MC80C535.pdf) is a simple circuit from maybe 1998.
 It was published by a german electronic magazin, named [Elektor](http://www.elektor.de/) and uses the 80C535 from
 Siemens/Infinion. The EEprom stores a monitor program with some usefull functions. 
-Its also possible to code in the running system by manipulate the RAM. The monitor has also an inbuild debugger.
+It is also possible to code in the running system by manipulating the RAM. The monitor has also an inbuild debugger.
 The only disadvantage, there is no flash memory inside. So every program is stored in RAM.
 
 ## Pictures
